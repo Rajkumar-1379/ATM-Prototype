@@ -1,1 +1,4 @@
 # ATM-Protoype
+This project was developed by using Python Programming.In an excel sheets the admin and user details are already present. When we choose admin to  login it will ask username and password. If the username does not match with password then login will not be successfull than it will ask again the loin credentials.
+If the admin username match with password present in an excel sheet, then admin can have choices to edit the details of customers(like adding,deleting,and removing the details of customer)
+When we choose user to login then it will ask then it will ask the username and password and if it matches then ad only then it will login successfully and it ask the to withdrawl,deposit and check the balance amount.Then it will update the amounts in an excel sheet according to the user,and it will generate the message in user email recording the update amount of user.
